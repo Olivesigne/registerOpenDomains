@@ -1,0 +1,16 @@
+{
+    "description": "Mi sitio para un juego con amigos",
+    "domain": "is-not-a.dev",
+    "subdomain": "hiddenpicture",
+
+    "owner": {
+        "repo": "https://github.com/Olivesigne/Olivesigne",
+        "email": "ponthenier.leonel@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "olivesigne.github.io"
+    },
+
+    "proxied": false
+}
