@@ -1,0 +1,13 @@
+{
+  "description": "My personal site on Github Pages",
+  "domain": "is-cool.dev",
+  "subdomain": "olivesigne",
+  "owner": {
+    "email": "ponthenier.leonel@gmail.com",
+    "github": "Olivesigne"
+  },
+  "record": {
+    "CNAME": "olivesigne.github.io/SiteEntreprise"
+  },
+  "proxied": false
+}
